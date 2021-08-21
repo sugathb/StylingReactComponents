@@ -1,1 +1,3 @@
-# StylingReactComponents
+-  Conditional and dynamic styles
+-  Styled components
+-  CSS Modules 
